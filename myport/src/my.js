@@ -61,7 +61,7 @@ export default function Myport() {
     <main>
     <section class="home section" id="home">
         <div class="home__container container grid">
-          <h1 class="home__name">Yosef Shimelis.</h1>
+          <h1 class="home__name">Yosefs Shimelis.</h1>
           <div class="home__perfil">
             <div class="home__image">
               <img
